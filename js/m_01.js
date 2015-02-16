@@ -1,0 +1,3 @@
+function nanme() {
+    alert("test");
+}
